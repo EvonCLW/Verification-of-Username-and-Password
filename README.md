@@ -3,10 +3,10 @@ An assignment of the subject 'Computing Programming'.  It is a Python program us
 
 ## Special Requirement 
 
-1. The username must be in alphabetical.
+1 The username must be in alphabetical.
 <br>
 
-2. The password must be: 
+2 The password must be: 
 <br>
    At least 1 letter between [a-z] and 1 letter between [A-Z].
 <br>
