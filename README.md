@@ -7,13 +7,14 @@ An assignment of the subject 'Computing Programming'.  It is a Python program us
 <br>
 
 2. The password must be: 
-At least 1 letter between [a-z] and 1 letter between [A-Z].
 <br>
-At least 1 number between [0-9].
+   At least 1 letter between [a-z] and 1 letter between [A-Z].
 <br>
-At least 1 character from [!@#$%^&].
+   At least 1 number between [0-9].
 <br>
-Minimum length 10 characters.
+   At least 1 character from [!@#$%^&].
 <br>
-Maximum length 30 characters.
+   Minimum length 10 characters.
+<br>
+   Maximum length 30 characters.
 
